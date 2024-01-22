@@ -18,7 +18,7 @@ export default function Contact() {
             className="text-white border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
           >
             <img
-              src="linkedin_icon.png" // Adjust the path based on your project structure
+              src="./linkedin_icon.png" // Adjust the path based on your project structure
               alt="LinkedIn"
               className="w-8 h-8" // Increased width and height
             />
@@ -30,7 +30,7 @@ export default function Contact() {
             className="text-white border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
           >
             <img
-              src="github_icon.png" // Adjust the path based on your project structure
+              src="./github_icon.png" // Adjust the path based on your project structure
               alt="LinkedIn"
               className="w-8 h-8" // Increased width and height
             />
